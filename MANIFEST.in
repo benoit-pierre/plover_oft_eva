@@ -1,0 +1,3 @@
+exclude decode_json_pcapng.py
+exclude VTOF9852.JPG
+include tox.ini
